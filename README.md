@@ -3,10 +3,10 @@
 ## Apartado A
 
 codigo:     
-  <html>
-      <head>
-      </head>
-    </html>
+    <html>
+        <head>
+        </head>
+      </html>
 
 
 Blabla
