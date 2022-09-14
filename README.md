@@ -9,17 +9,9 @@ codigo:
         </head>
       </html>
 
-
-Blabla
-
-* Sí
-* No
-* No se
-
 ## Apartado B
 
-Blabla
-
+Ese es un código ```HTML```! no ```PHP```...
 
 ## TUX
 
