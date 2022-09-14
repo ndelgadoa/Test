@@ -2,10 +2,12 @@
 
 ### Apartado A
 
-* Si
+Blabla
+
+* Sí
 * No
 * No se
 
 ### Apartado B
 
-bla bla
+Blabla
